@@ -37,6 +37,10 @@
 
 0) Link to Rail's ActiveRecord querying conditions 
 
+	http://guides.rubyonrails.org/active_record_querying.html#conditions
+
 1) Link from APIdock to Rail's ActiveRecord querying conditions  
 
-2) 
+	http://api.rubyonrails.org/classes/ActiveRecord/Base.html
+
+2) http://guides.rubyonrails.org/
